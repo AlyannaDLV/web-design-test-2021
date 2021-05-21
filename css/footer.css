@@ -1,0 +1,15 @@
+
+.bg{
+	background-color:#212121;
+}
+
+.pad {
+	
+	padding-left: 10%;
+	padding-right: 5%;
+}
+
+.align{
+	
+	display: inline-block;
+}

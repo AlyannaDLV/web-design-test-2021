@@ -1,0 +1,164 @@
+/*
+	date created: May 20, 2021
+	by: Alyanna Dela Victoria
+	Purpose: 
+*/
+
+body{
+	padding:0 ;
+	margin:0 ;
+	font-family:"Poppins";
+}
+
+.container{
+	position:relative;
+	text-align:center;
+}
+.container:before, .container:after{
+	content: "";
+    display: table;
+
+}
+
+.container:after{
+	clear:both;
+
+}
+
+nav{
+	background-color:#212121;
+	height:75px;
+	font-color:#FFFFFF;
+	max-width:100%;
+}
+
+nav div p{
+	color:#FFFFFF;
+	font-size:12px;
+	display:inline-block;
+	font-weight:600;
+}
+
+.verticalCenter{
+	margin: 0;
+	position: absolute;
+	top: 3%;
+
+}
+
+.sliders{
+	max-width:100%;
+	height:auto;
+}
+
+#s1{
+	background-image:url('photos/slider/slider1.png');
+}
+
+.infoslider{
+	width:100%;
+	max-width:700px;
+	height:auto;
+}
+
+.infotours{
+	text-align:center;
+}
+
+.infobesttours{
+	text-align:center;
+}
+
+.centeredPost{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+}
+
+.bg{
+	max-height:637px;
+	height:100%;
+	width:100%;
+	max-width:1903px;
+}
+
+.tSBT{
+	width:1000px; 
+	font-size:16px;
+}
+
+.infopartners{
+	background-color:#F5F5F5;
+	text-align:center;
+	padding: 4% 0px;
+}
+
+.infoclients{
+	text-align:center;
+
+}
+
+.infopartners img{
+	background-color:#F5F5F5;
+	text-align:center;
+	padding: 5px 1.5%; 
+}
+
+.infowhyusbox{
+	width:400px;
+
+}
+
+.infoclientbox{
+	width:380px;
+	height:159px;
+	margin:0px;
+	padding:0px;
+}
+
+.infoclientboxTxt{
+	width:280px;
+	text-align:left;
+	margin-left:15px;
+}
+
+button{
+	color:white;
+	border-radius: 28px;
+	background-color:#FF6B6B;
+	border: 1px solid #FF6B6B;
+	font-weight:bold;
+	font-size:12px;
+}
+
+.buttonTrans{
+	color:white;
+	border-radius: 28px;
+	background-color:transparent;
+	border: 3px solid #FFFFFF;
+	font-weight:bold;
+	font-size:12px;
+	
+}
+
+button .space{
+	padding:0px 10px;
+}
+
+.modalLayout{
+	display: none;
+	position: fixed;
+	width: 800px;
+	height: 650px;
+	background-color:#FFFFFF;
+}
+
+
+
+
+	
+	
+
+	/* == /.navbar == */

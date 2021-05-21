@@ -1,0 +1,123 @@
+
+
+/* == floaters == */
+
+	.fL{
+		float:left;
+	}
+
+	.fR{
+		float:right;
+	}
+
+	.cL{
+		clear:left;
+	}
+	
+	.cR{
+		clear:right;
+	}
+	
+	.cB{
+		clear:both;
+	}
+	
+/* == /.floaters == */
+
+/* == font colors == */
+ .fc1{
+	 color:#FFFFFF;
+ }
+ .fc2{
+	 color:#545454;	 
+ }
+ .fc3{
+	 color:#9B9B9B;	 
+ }
+ 
+/* == /.font colors == */ 
+ 
+ /* == font sizes == */
+ .fS45{
+	 font-size:45px;
+ }
+ 
+  .fS24{
+	 font-size:24px;
+ }
+
+ 
+ .fS14{
+	 font-size:14px;
+ }
+
+ 
+/* == /.font colors == */ 
+ 
+ /* == font weight == */
+ .fW6{
+	 font-weight:600;
+ }
+ 
+/* == /.font weight == */
+ 
+ 
+ /* == margin and padding == */
+ 
+  .noMP{
+	  margin:0px;
+	  padding:0px;
+  }
+  
+  .pd5{
+	  padding:5%;
+  }
+  
+	.pdL5{
+	  padding-left:5%;
+  }
+ 
+	.pdL4{
+	  padding-left:4%;
+  } 
+ 
+    .pdLR6{
+	  padding-left:6%;
+	  padding-right:2%;
+  }
+ 
+  .pdTB3{
+	  padding:3% 0px 3% 0px;
+  }
+  
+    .pdTB5{
+	  padding:5% 0px;
+  }
+  
+    .pdm20{
+	  margin-top:20px;
+  }
+  
+      .pdm10{
+	  margin-top:10px;
+  }
+  
+   
+  .pdB3{
+	  padding-bottom:3%;
+  }
+  
+    .pdB5{
+	  padding-bottom:5%;
+  }
+   
+  .mB{
+	  margin-bottom:3%;
+	  
+  }
+  
+  .tAc{
+	  text-align:center;
+  }
+ 
+ 
